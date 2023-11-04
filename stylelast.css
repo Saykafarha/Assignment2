@@ -1,0 +1,32 @@
+
+.navbar {
+    overflow: hidden; 
+    background-color: hsla(257, 90%, 46%, 0.941); 
+  }
+  
+
+  .navbar a {
+    float:right; 
+    display: flex; 
+    color: rgb(255, 255, 255); 
+    text-align: right; 
+    padding: 17px 30px; 
+    text-decoration: rgba(55, 32, 233, 0.959); 
+  }
+  
+
+  .navbar a.right {
+    float: right; 
+  }
+
+  .navbar a:hover {
+    background-color: #175eeee3; 
+    color: rgba(28, 64, 39, 0.397); 
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: coral;
+  }
